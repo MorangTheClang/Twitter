@@ -2,7 +2,7 @@ window.YTD.profile.part0 = [
   {
     "profile" : {
       "description" : {
-        "bio" : "Profaned fame?\nhttps://t.co/EFJeeee2Yf\nhttps://t.co/UNQZET5Vj4",
+        "bio" : "https://t.co/ySeGwGF5Gy",
         "website" : "https://t.co/587G7xFGX7",
         "location" : ""
       },

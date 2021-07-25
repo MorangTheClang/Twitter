@@ -289,33 +289,6 @@ window.YTD.direct_messages.part0 = [
   },
   {
     "dmConversation" : {
-      "conversationId" : "747528723331747840-854994858712354816",
-      "messages" : [
-        {
-          "messageCreate" : {
-            "recipientId" : "747528723331747840",
-            "reactions" : [ ],
-            "urls" : [
-              {
-                "url" : "https://t.co/yjcUvdEe0E",
-                "expanded" : "https://twitter.com/messages/media/1132901331360813060",
-                "display" : "pic.twitter.com/yjcUvdEe0E"
-              }
-            ],
-            "text" : " https://t.co/yjcUvdEe0E",
-            "mediaUrls" : [
-              "https://ton.twitter.com/dm/1132901331360813060/1132901326231298049/KrQjiCoN.jpg"
-            ],
-            "senderId" : "854994858712354816",
-            "id" : "1132901331360813060",
-            "createdAt" : "2019-05-27T06:48:20.548Z"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "dmConversation" : {
       "conversationId" : "854994858712354816-1058540635442110469",
       "messages" : [
         {

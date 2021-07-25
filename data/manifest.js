@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "Brenden Gerelle"
   },
   "archiveInfo" : {
-    "sizeBytes" : "157721060",
-    "generationDate" : "2021-07-01T05:22:20.397Z",
+    "sizeBytes" : "166989927",
+    "generationDate" : "2021-07-25T13:55:40.738Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -48,14 +48,14 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "24"
+        "count" : "70"
       } ]
     },
     "adImpressions" : {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "24"
+        "count" : "72"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -160,7 +160,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/direct-message-headers.js",
         "globalName" : "YTD.direct_message_headers.part0",
-        "count" : "4"
+        "count" : "3"
       } ]
     },
     "directMessageMute" : {
@@ -175,7 +175,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/direct-messages.js",
         "globalName" : "YTD.direct_messages.part0",
-        "count" : "4"
+        "count" : "3"
       } ]
     },
     "directMessagesGroup" : {
@@ -221,28 +221,28 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "16"
+        "count" : "15"
       } ]
     },
     "following" : {
       "files" : [ {
         "fileName" : "data/following.js",
         "globalName" : "YTD.following.part0",
-        "count" : "84"
+        "count" : "92"
       } ]
     },
     "ipAudit" : {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "50"
+        "count" : "99"
       } ]
     },
     "like" : {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "137"
+        "count" : "142"
       } ]
     },
     "listsCreated" : {
@@ -284,7 +284,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/mute.js",
         "globalName" : "YTD.mute.part0",
-        "count" : "1"
+        "count" : "0"
       } ]
     },
     "niDevices" : {
@@ -403,12 +403,19 @@ window.__THAR_CONFIG = {
         "count" : "0"
       } ]
     },
+    "sso" : {
+      "files" : [ {
+        "fileName" : "data/sso.js",
+        "globalName" : "YTD.sso.part0",
+        "count" : "0"
+      } ]
+    },
     "tweet" : {
       "mediaDirectory" : "data/tweet_media",
       "files" : [ {
         "fileName" : "data/tweet.js",
         "globalName" : "YTD.tweet.part0",
-        "count" : "3632"
+        "count" : "3759"
       } ]
     },
     "tweetMedia" : {

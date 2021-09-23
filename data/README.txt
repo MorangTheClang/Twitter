@@ -33,10 +33,6 @@ If Direct Messages (DMs) have been produced and there is associated media, you c
 
 If your production includes a direct-messages file and did not include a direct_messages_media folder, this is because there was no media associated with the direct-messages file.
 ----------------------
-fleet_media
-Folder of images, videos and GIFs included in Fleets from this account for as long as we maintain a copy of them.
-Media associated with Fleets is usually stored for up to 15 days after the Fleet expires or is deleted, but it may be stored for longer if the Fleet has been actioned against.
-----------------------
 moments_media
 Folder of images, videos and gifs uploaded through Twitter’s photo hosting service for Tweets that have been added as Moment cover media. This media may or may not have been originally posted by the account that created the Moment. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, YouTube videos)
 ----------------------
@@ -300,22 +296,6 @@ direct-messages.js
 - id: Unique identifier for a specific Direct Message within the conversation.
 - createdAt: Date and time the Direct Message was sent.
 ----------------------
-fleet-mute.js
-- accountId: Unique identifiers of accounts currently muted by the account.
-- userLink: Link to information about the muted users’ profiles if accessible to the account. For example, this information might not be accessible if muted profiles are protected or deactivated.
-----------------------
-fleet.js
-- id: Unique identifier for the Fleet. Fleet data is usually stored for up to 30 days after the Fleet expires or is deleted, but it may be stored for longer if the Fleet has been actioned against.
-- userId: The Fleet author’s Twitter user ID.
-- threadId: Unique identifier for the thread associated with the Fleet.
-- text: The text content of the Fleet.
-- createdAt: Day and time at which the Fleet was created.
-- deletedAt: Day and time at which the Fleet was deleted.
-- viewCount: Number of times the Fleet was viewed by unique accounts.
-- urls: Optional field showing the URL link included in the Fleet, if applicable.
-- mediaEntity: Optional field with information about the media, including URLs to access it. This URL may not be available if we no longer have a copy of the media.
-- seenByUsers: List of user IDs who viewed the Fleet.
-----------------------
 follower.js
 - accountId: Unique identifiers for the other accounts that follow this account.
 - userLink: Link to information about the blocked users’ profiles if accessible to the account. For example, this information might not be accessible if blocked profiles are protected or deactivated.
@@ -432,6 +412,7 @@ personalization.js
 - lookalikeAdvertisers: List of screen names for the advertisers that own the look-alike audiences the account is a part of.
 - inferredAgeInfo: Date of birth Twitter has inferred about the account and corresponding current age.
 - locationHistory: Location history associated with the account based on activity from the last 60 days.
+- shows: TV shows associated with the account. Please note that this information may be inferred.
 ----------------------
 
 === PROTECTED CLASSIFICATIONS ===

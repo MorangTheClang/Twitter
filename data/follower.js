@@ -1,6 +1,12 @@
 window.YTD.follower.part0 = [
   {
     "follower" : {
+      "accountId" : "3278989008",
+      "userLink" : "https://twitter.com/intent/user?user_id=3278989008"
+    }
+  },
+  {
+    "follower" : {
       "accountId" : "1414330132744056832",
       "userLink" : "https://twitter.com/intent/user?user_id=1414330132744056832"
     }
@@ -21,12 +27,6 @@ window.YTD.follower.part0 = [
     "follower" : {
       "accountId" : "1350569754122182656",
       "userLink" : "https://twitter.com/intent/user?user_id=1350569754122182656"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "1399160475900952578",
-      "userLink" : "https://twitter.com/intent/user?user_id=1399160475900952578"
     }
   },
   {

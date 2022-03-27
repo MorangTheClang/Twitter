@@ -19,6 +19,13 @@ FILE DESCRIPTIONS
 === SENSORY INFORMATION ===
 (Audio, electronic, visual, and similar information)
 
+community_tweet_media
+Folder of images, videos, and/or gifs shared in the account’s Tweets that are posted in Communities. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
+
+If Tweets have been posted in Communities and there is associated media, you can match the media to the community_tweet data file. The filename for each media file in the community_tweet_media folder contains a numerical ID that corresponds to a Community Tweet in the community_tweet file. By searching the community_tweet file for the numeric portion of the filename of the media, you can find the corresponding Community Tweet.
+
+If your production includes a community_tweet file and did not include a community_tweet_media folder, this is because there was no media associated with the community_tweet file.
+----------------------
 direct_messages_group_media
 Folder of images, videos and gifs shared in the account’s Direct Message group conversations. Note:this folder does not include media hosted on other platforms but linked on Twitter (for example, YouTube videos).
 
@@ -200,13 +207,14 @@ app.js
 ----------------------
 birdwatch-note-rating.js
 - noteId: Unique identifier for the Birdwatch note.
-- userId: The Twitter user ID of the author of the Birdwatch note.
+- userId: The Twitter user ID of the author of the Birdwatch note rating.
 - createdAt: Day and time at which the Birdwatch note rating was created.
 - agree: Indicates whether the Twitter user agrees or not with the Birdwatch note, if available.
 - helpful: Indicates whether the Twitter user finds the Birdwatch note helpful or not helpful, if available.
 - helpfulTags: Tags the user added to this Birdwatch note, if available. (Options may include but are not limited to “clear“, “good source”, etc.)
 - nothelpfulTags: Tags the user added to this Birdwatch note, if available. (Options may include but are not limited to “outdated“, “incorrect“, etc.)
 - helpfulnessLevel: Indicates whether the Twitter user finds the Birdwatch note helpful or not, if available. (Options may include but are not limited to "helpful", "somewhat helpful", "not helpful", etc.)
+- userAlias: The Birdwatch alias of the author of the Birdwatch note rating.
 ----------------------
 birdwatch-note.js
 - noteId: Unique identifier for the Birdwatch note.
@@ -221,6 +229,7 @@ birdwatch-note.js
 - notMisleadingTags: User-entered checkbox in response to question “Why do you believe this tweet is not misleading?” (Check all that apply question type).
 - harmful: User-entered multiple choice response to note writing question: “If many believed this tweet, it might cause:”. (Options may include but are not limited to “little harm”, “considerable harm”, etc.)
 - validation: User-entered multiple choice response to note writing question: “Finding and understanding the correct information would be:” (Options may include but are not limited to “easy”, “challenging”.)
+- userAlias: The Birdwatch alias of the author of the Birdwatch note.
 ----------------------
 block.js
 - accountId: Unique identifiers of accounts currently blocked by the account.
@@ -233,6 +242,9 @@ branch-links.js
 - channel: Tracking parameter always set to Twitter.
 - feature: Tracking parameter indicating the Twitter product surface area where the user clicked.
 - campaign: Tracking parameter indicating the name of the marketing campaign which the user clicked.
+----------------------
+community_tweet.js
+This JSON file contains all the Tweets posted in Communities and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
 ----------------------
 connected-application.js
 - name: Name of the application.
@@ -362,6 +374,37 @@ periscope-profile-description.js
 - description: Periscope account description ported over from the Twitter account when the shell account was created.
 - profileImageUrls: URLs of the profile images used with the Twitter account when the shell account was created.
 ----------------------
+professional_data.js
+- accountId: Unique identifier for the account.
+- professionalId: Unique identifier for the Professional account.
+- professionalType: Business or Creator, depending on which type of Professional account the user selected.
+- categoryName: The category of Professional account, as selected by the user.
+- setToDisplay: Whether the category is displayed to profile visitors, as selected by the user.
+- createdAt: Date and time the Professional account was created.
+- creationSource: What path (eg. feature) the creation happened from
+- moduleId: Unique identifier for the module
+- website: URL chosen by the user to display in the location spotlight
+- addresssLine1: First line of the address used for the location spotlight
+- city: City selected for the location spotlight
+- administrativeArea: State-like selected for the location spotlight
+- postalCode: Postal code selected for the location spotlight
+- country: Country selected for the location spotlight
+- phone: Phone selected for the location spotlight with country code and number
+- countryCode: Country code selected as phone number on the location spotlight
+- number: Phone number on the location spotlight without country code
+- email: Email selected for the location spotlight (not the same one as the account's email)
+
+- timezone: Timezone selected for the location spotlight
+- openTimes: Open hours for the location on the location spotlight
+- openTimesType: Type of open hours selected. Values are "Always Open", "Regular Hours", None
+- regular: When type is "Regular Hours", daily definitions go here
+- weekday: Day of the week for which the open hours apply
+- slots: Slots for ranges of open hours for the given weekday
+- hourOpen: Hour that the venue opens
+- minuteOpen: Minute that the venue opens
+- hourClose: Hour that the venue closes
+- minuteClose: minute that the venue closes
+----------------------
 profile.js
 - bio: Current account bio as displayed on the profile, if the user has provided one.
 - website: Current account website as displayed on the profile, if the user has provided one.
@@ -386,8 +429,22 @@ saved-search.js
 - savedSearchId: Unique identifier for a saved search.
 - query: Actual search query entered by the account.
 ----------------------
+smartblock.js
+Accounts smartblocked by Twitter on the User's behalf, when the User had Safety mode turned on. Includes metadata.
+- accountId: Unique identifiers of accounts currently blocked by the account.
+- userLink: Link to information about the blocked users' profiles. The information from the link might not be accessible if the account is protected or has been deactivated.
+
+- createdAt: Timestamp that the Smartblock was created.
+- expiresAt: Timestamp that the Smartblock expires.
+- ttl: smartblock duration in string format (1 day, 7 days, etc.)
+----------------------
 tweet.js
 This JSON file contains all the Tweets posted and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
+----------------------
+tweetdeck.js
+- title: The title of the deck
+- columns: The columns in the deck
+- pathname: The type of each column. For some column types, it contains extra attributes, such as query in /search?q=london, or list-id in /list/27456987
 ----------------------
 user-link-clicks.js
 - tweetId: Unique identifier for the Tweet the user clicked on when using Twitter on iOS or Android.
@@ -413,6 +470,7 @@ personalization.js
 - inferredAgeInfo: Date of birth Twitter has inferred about the account and corresponding current age.
 - locationHistory: Location history associated with the account based on activity from the last 60 days.
 - shows: TV shows associated with the account. Please note that this information may be inferred.
+- doNotReachAdvertisers: List of screen names for the advertisers that own Do Not Reach Lists the account is a part of
 ----------------------
 
 === PROTECTED CLASSIFICATIONS ===

@@ -1,6 +1,18 @@
 window.YTD.follower.part0 = [
   {
     "follower" : {
+      "accountId" : "1494983910694039555",
+      "userLink" : "https://twitter.com/intent/user?user_id=1494983910694039555"
+    }
+  },
+  {
+    "follower" : {
+      "accountId" : "1432315711108513792",
+      "userLink" : "https://twitter.com/intent/user?user_id=1432315711108513792"
+    }
+  },
+  {
+    "follower" : {
       "accountId" : "3278989008",
       "userLink" : "https://twitter.com/intent/user?user_id=3278989008"
     }
@@ -9,24 +21,6 @@ window.YTD.follower.part0 = [
     "follower" : {
       "accountId" : "1414330132744056832",
       "userLink" : "https://twitter.com/intent/user?user_id=1414330132744056832"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "1141376861878083585",
-      "userLink" : "https://twitter.com/intent/user?user_id=1141376861878083585"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "1376766973091049473",
-      "userLink" : "https://twitter.com/intent/user?user_id=1376766973091049473"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "1350569754122182656",
-      "userLink" : "https://twitter.com/intent/user?user_id=1350569754122182656"
     }
   },
   {

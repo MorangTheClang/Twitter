@@ -6,22 +6,6 @@ window.YTD.personalization.part0 = [
           {
             "language" : "English",
             "isDisabled" : false
-          },
-          {
-            "language" : "Indonesian",
-            "isDisabled" : false
-          },
-          {
-            "language" : "Czech",
-            "isDisabled" : false
-          },
-          {
-            "language" : "Haitian Creole",
-            "isDisabled" : false
-          },
-          {
-            "language" : "Japanese",
-            "isDisabled" : false
           }
         ],
         "genderInfo" : {
@@ -39,15 +23,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "ASMR",
+            "name" : "ATOM cryptocurrency",
             "isDisabled" : false
           },
           {
-            "name" : "Action sports",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Adam Sandler",
+            "name" : "Actors",
             "isDisabled" : false
           },
           {
@@ -59,6 +39,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Alex Albon",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Alfa Romeo",
+            "isDisabled" : false
+          },
+          {
             "name" : "Alfa Romeo Racing",
             "isDisabled" : false
           },
@@ -67,19 +55,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Among Us",
-            "isDisabled" : false
-          },
-          {
             "name" : "Amouranth",
             "isDisabled" : false
           },
           {
-            "name" : "Amy Schumer",
+            "name" : "Animals",
             "isDisabled" : false
           },
           {
-            "name" : "Animals",
+            "name" : "Animation & comics",
             "isDisabled" : false
           },
           {
@@ -95,6 +79,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Archaeology",
+            "isDisabled" : false
+          },
+          {
             "name" : "Archillect",
             "isDisabled" : false
           },
@@ -107,19 +95,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Asmongold",
-            "isDisabled" : false
-          },
-          {
             "name" : "Aston Martin Cognizant F1 Team",
             "isDisabled" : false
           },
           {
-            "name" : "Astralis",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Atlanta Reign",
+            "name" : "Attack on Titan",
             "isDisabled" : false
           },
           {
@@ -127,7 +107,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Augmented reality",
+            "name" : "Authors",
             "isDisabled" : false
           },
           {
@@ -159,7 +139,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "BadBoyHalo",
+            "name" : "Backstage",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Bad Bunny",
             "isDisabled" : false
           },
           {
@@ -175,31 +159,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Behind the scenes",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Bella Hadid",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Benjyfishy",
+            "isDisabled" : false
+          },
+          {
             "name" : "Bethesda",
             "isDisabled" : false
           },
           {
-            "name" : "Biology",
+            "name" : "Bill Gates",
             "isDisabled" : false
           },
           {
-            "name" : "Blizzard Entertainment",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Blogging",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Bo Burnham",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Books",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Boxing",
+            "name" : "Bitcoin cryptocurrency",
             "isDisabled" : false
           },
           {
@@ -211,19 +191,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Breaking Bad",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Breaking Bad",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Breaking Bad",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Bungie",
+            "name" : "British Columbia",
             "isDisabled" : false
           },
           {
@@ -232,6 +200,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Business & finance",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Business personalities",
             "isDisabled" : false
           },
           {
@@ -259,15 +231,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Carnival Row",
-            "isDisabled" : false
-          },
-          {
             "name" : "Cars",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Catfish: The TV Show",
             "isDisabled" : false
           },
           {
@@ -279,15 +243,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Chainsaw Man",
+            "name" : "Celebrity fan and gossip",
             "isDisabled" : false
           },
           {
-            "name" : "Chengdu Hunters",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Chess",
+            "name" : "Cem Bolukbasi",
             "isDisabled" : false
           },
           {
@@ -299,19 +259,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Cloud9",
+            "name" : "Citroen",
             "isDisabled" : false
           },
           {
-            "name" : "Coca-Cola",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Coffee",
+            "name" : "Clix",
             "isDisabled" : false
           },
           {
             "name" : "Coffee",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Colman Domingo",
             "isDisabled" : false
           },
           {
@@ -327,7 +287,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Computer gaming",
+            "name" : "Comedy",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Commentary",
             "isDisabled" : false
           },
           {
@@ -335,15 +299,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Corpse Husband",
+            "name" : "Cooking",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Corey",
             "isDisabled" : false
           },
           {
             "name" : "Cosplay",
-            "isDisabled" : false
-          },
-          {
-            "name" : "CouRage",
             "isDisabled" : false
           },
           {
@@ -355,15 +319,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Crypto.com",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Cryptocoins",
+            "isDisabled" : false
+          },
+          {
             "name" : "Cryptocurrencies",
             "isDisabled" : false
           },
           {
-            "name" : "Cyberpunk 2077",
+            "name" : "Cryptocurrency exchanges",
             "isDisabled" : false
           },
           {
-            "name" : "Cybersecurity",
+            "name" : "Cuisines",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Cultural events",
             "isDisabled" : false
           },
           {
@@ -371,11 +347,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Dale Earnhardt Jr",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Dallas Fuel",
+            "name" : "Daniel Ricciardo",
             "isDisabled" : false
           },
           {
@@ -387,15 +359,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Destinations",
+            "isDisabled" : false
+          },
+          {
             "name" : "Destiny",
             "isDisabled" : false
           },
           {
-            "name" : "Diablo",
+            "name" : "Digital asset industry",
             "isDisabled" : false
           },
           {
-            "name" : "Dieting",
+            "name" : "Digital assets & cryptocurrency",
             "isDisabled" : false
           },
           {
@@ -407,15 +383,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Discord",
-            "isDisabled" : false
-          },
-          {
             "name" : "DizzyKitten",
             "isDisabled" : false
           },
           {
-            "name" : "Dogs",
+            "name" : "Dodge",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Dogecoin cryptocurrency",
             "isDisabled" : false
           },
           {
@@ -439,11 +415,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Dream",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Dream SMP",
+            "name" : "Drawing & illustration",
             "isDisabled" : false
           },
           {
@@ -459,11 +431,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Elden Ring",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Elon Musk",
+            "isDisabled" : false
+          },
+          {
             "name" : "Entertainment",
             "isDisabled" : false
           },
           {
-            "name" : "Entertainment events",
+            "name" : "Entertainment awards",
             "isDisabled" : false
           },
           {
@@ -471,7 +451,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Envy",
+            "name" : "Epic Games",
             "isDisabled" : false
           },
           {
@@ -483,11 +463,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Esports players",
+            "name" : "Esports teams",
             "isDisabled" : false
           },
           {
-            "name" : "Esports teams",
+            "name" : "Ethereum cryptocurrency",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Euphoria",
             "isDisabled" : false
           },
           {
@@ -495,11 +479,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Evil Geniuses",
+            "name" : "Exercise and fitness",
             "isDisabled" : false
           },
           {
-            "name" : "Exercise and fitness",
+            "name" : "FNS",
+            "isDisabled" : false
+          },
+          {
+            "name" : "FaZeClan",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Falco",
             "isDisabled" : false
           },
           {
@@ -507,23 +499,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Famous families",
+            "isDisabled" : false
+          },
+          {
             "name" : "Fashion",
             "isDisabled" : false
           },
           {
-            "name" : "Fashion & beauty",
+            "name" : "Fashion",
             "isDisabled" : false
           },
           {
-            "name" : "Fashion events",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Fast & Furious",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Fast food",
+            "name" : "Fast food Restaurants",
             "isDisabled" : false
           },
           {
@@ -539,7 +527,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Final Fantasy XIV",
+            "name" : "Fields of study",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Fighting games",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Fine Dining",
             "isDisabled" : false
           },
           {
@@ -548,14 +544,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Fitness",
-            "isDisabled" : false
-          },
-          {
-            "name" : "FlyQuest",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Fnatic",
             "isDisabled" : false
           },
           {
@@ -579,19 +567,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Formula 2",
+            "isDisabled" : false
+          },
+          {
             "name" : "Formula One Racing",
             "isDisabled" : false
           },
           {
-            "name" : "Forza Motorsport",
-            "isDisabled" : false
-          },
-          {
-            "name" : "G2 Esports",
+            "name" : "Fórmula 1",
             "isDisabled" : false
           },
           {
             "name" : "GPS and maps",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Game development",
             "isDisabled" : false
           },
           {
@@ -607,15 +599,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Gaming news",
+            "name" : "Genshin Impact",
             "isDisabled" : false
           },
           {
-            "name" : "Gaming news and general info",
+            "name" : "George Russell",
             "isDisabled" : false
           },
           {
-            "name" : "GeorgeNotFound",
+            "name" : "Gigi Hadid",
             "isDisabled" : false
           },
           {
@@ -623,7 +615,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Gordon Hayward",
+            "name" : "Good Sam",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Good Sam",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Google",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Google brand conversation",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Government",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Government institutions",
             "isDisabled" : false
           },
           {
@@ -631,11 +643,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Guangzhou Charge",
+            "name" : "Grand Theft Auto",
             "isDisabled" : false
           },
           {
-            "name" : "Guns N' Roses",
+            "name" : "Grey DeLisle",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Haas F1 Team",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Hadids",
             "isDisabled" : false
           },
           {
@@ -643,7 +663,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "HasanAbi",
+            "name" : "Haraichi no Turn!",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Health news and general info",
             "isDisabled" : false
           },
           {
@@ -651,11 +675,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Hearthstone",
+            "name" : "Hip hop",
             "isDisabled" : false
           },
           {
-            "name" : "Hip hop",
+            "name" : "Hockey",
             "isDisabled" : false
           },
           {
@@ -663,7 +687,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Houston Outlaws",
+            "name" : "Horizon",
+            "isDisabled" : false
+          },
+          {
+            "name" : "IGN",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Industries",
             "isDisabled" : false
           },
           {
@@ -675,15 +707,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Information security",
-            "isDisabled" : false
-          },
-          {
             "name" : "Instagram",
             "isDisabled" : false
           },
           {
-            "name" : "Into1",
+            "name" : "Investing",
             "isDisabled" : false
           },
           {
@@ -691,19 +719,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Iron Maiden",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Jacksepticeye",
-            "isDisabled" : false
-          },
-          {
             "name" : "James Charles",
             "isDisabled" : false
           },
           {
-            "name" : "Jamie Little",
+            "name" : "Jason Miller",
             "isDisabled" : false
           },
           {
@@ -711,11 +731,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Joan Jett",
+            "name" : "Jessica Nigri",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Joe Rogan",
             "isDisabled" : false
           },
           {
             "name" : "Jonny Smith",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Jorge Masvidal",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Journalists",
             "isDisabled" : false
           },
           {
@@ -727,11 +759,39 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Kehlani",
+            "name" : "Kanye West",
             "isDisabled" : false
           },
           {
-            "name" : "Keyboard enthusiasts",
+            "name" : "Kebab",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Kill La Kill",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Kill la Kill",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Krishnan Guru-Murthy",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Lando Norris",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Latin music",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Latin pop",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Leadership",
             "isDisabled" : false
           },
           {
@@ -739,15 +799,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "League of Legends Champions Korea",
-            "isDisabled" : false
-          },
-          {
-            "name" : "League of Legends Championship Series",
-            "isDisabled" : false
-          },
-          {
-            "name" : "League of Legends European Championship",
+            "name" : "Lifehacks",
             "isDisabled" : false
           },
           {
@@ -759,23 +811,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Ludwig Ahgren",
+            "name" : "Lotus Cars",
             "isDisabled" : false
           },
           {
-            "name" : "MAD Lions",
-            "isDisabled" : false
-          },
-          {
-            "name" : "MLB Baseball",
-            "isDisabled" : false
-          },
-          {
-            "name" : "MLB Baseball",
-            "isDisabled" : false
-          },
-          {
-            "name" : "MTV Video Music Awards",
+            "name" : "MMA",
             "isDisabled" : false
           },
           {
@@ -783,27 +823,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Marvel Universe",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Mathematics",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Mazda",
+            "isDisabled" : false
+          },
+          {
             "name" : "McLaren F1",
             "isDisabled" : false
           },
           {
-            "name" : "Mercedes AMG F1",
+            "name" : "Medical drama",
             "isDisabled" : false
           },
           {
-            "name" : "Mercedes-Benz",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Metallica",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Meteos",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Method",
+            "name" : "Microsoft",
             "isDisabled" : false
           },
           {
@@ -811,23 +851,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Minecraft YouTubers",
-            "isDisabled" : false
-          },
-          {
             "name" : "Mizkif",
             "isDisabled" : false
           },
           {
-            "name" : "Mobile gaming",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Moderna",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Moderna Vaccine",
+            "name" : "Mongraal",
             "isDisabled" : false
           },
           {
@@ -843,7 +871,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Motorcycles",
+            "name" : "Mount Rushmore National Memorial",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Movie news and general info",
             "isDisabled" : false
           },
           {
@@ -859,15 +891,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Music events",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Music festivals",
-            "isDisabled" : false
-          },
-          {
             "name" : "Music festivals and concerts",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Music industry",
             "isDisabled" : false
           },
           {
@@ -879,15 +907,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "MythBusters",
-            "isDisabled" : false
-          },
-          {
             "name" : "N0tail",
-            "isDisabled" : false
-          },
-          {
-            "name" : "NASCAR",
             "isDisabled" : false
           },
           {
@@ -895,7 +915,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "NBA basketball",
+            "name" : "NFTs",
+            "isDisabled" : false
+          },
+          {
+            "name" : "NHL Hockey",
             "isDisabled" : false
           },
           {
@@ -903,19 +927,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Natus Vincere",
+            "name" : "NRG Esports",
             "isDisabled" : false
           },
           {
-            "name" : "New York Excelsior",
+            "name" : "National parks",
             "isDisabled" : false
           },
           {
-            "name" : "Nicki Minaj",
+            "name" : "News",
             "isDisabled" : false
           },
           {
-            "name" : "Nihachu",
+            "name" : "Nicholas Latifi",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Nickmercs",
             "isDisabled" : false
           },
           {
@@ -927,19 +955,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Ninjas in Pyjamas",
+            "name" : "Nissan",
             "isDisabled" : false
           },
           {
-            "name" : "OG",
+            "name" : "North America travel",
             "isDisabled" : false
           },
           {
-            "name" : "Online gaming",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Online gaming",
+            "name" : "Oracle Red Bull Racing",
             "isDisabled" : false
           },
           {
@@ -947,19 +971,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Overwatch League",
+            "name" : "Painting",
             "isDisabled" : false
           },
           {
-            "name" : "PC gaming",
+            "name" : "Patreon",
             "isDisabled" : false
           },
           {
-            "name" : "Paris Eternal",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Pets",
+            "name" : "Pete Davidson",
             "isDisabled" : false
           },
           {
@@ -967,15 +987,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "PewDiePie",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Philadelphia Fusion",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Philadelphia art scene",
+            "name" : "Pets",
             "isDisabled" : false
           },
           {
@@ -983,19 +995,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Physics",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Pink floyd",
+            "name" : "Photography",
             "isDisabled" : false
           },
           {
             "name" : "Pizza",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Pokimane",
             "isDisabled" : false
           },
           {
@@ -1011,15 +1015,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Politics",
+            "isDisabled" : false
+          },
+          {
             "name" : "Pop",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Popular Images",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Popular Videos",
             "isDisabled" : false
           },
           {
@@ -1027,23 +1027,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Psychology",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Quackity",
-            "isDisabled" : false
-          },
-          {
-            "name" : "R&B and soul",
-            "isDisabled" : false
-          },
-          {
             "name" : "Racing",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Rainbow Six Siege",
             "isDisabled" : false
           },
           {
@@ -1051,7 +1035,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Red Bull Racing Honda",
+            "name" : "Rawkus",
             "isDisabled" : false
           },
           {
@@ -1059,27 +1043,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Rihanna",
+            "name" : "Reggaeton",
             "isDisabled" : false
           },
           {
-            "name" : "Riot Games",
+            "name" : "Retail",
             "isDisabled" : false
           },
           {
-            "name" : "Rocket League",
+            "name" : "Reverse2k",
             "isDisabled" : false
           },
           {
-            "name" : "Rogue",
+            "name" : "RiseNation",
             "isDisabled" : false
           },
           {
-            "name" : "RuneScape",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Rust",
+            "name" : "Rockstar Games",
             "isDisabled" : false
           },
           {
@@ -1087,19 +1067,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "SZA",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Salma Hayek",
-            "isDisabled" : false
-          },
-          {
-            "name" : "San Francisco Shock",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Schlatt",
+            "name" : "Sailor Moon",
             "isDisabled" : false
           },
           {
@@ -1115,6 +1083,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Screenwriting",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Scuderia AlphaTauri",
+            "isDisabled" : false
+          },
+          {
             "name" : "Scuderia Ferrari",
             "isDisabled" : false
           },
@@ -1127,35 +1103,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Sentinels",
+            "isDisabled" : false
+          },
+          {
+            "name" : "ShahZaM",
+            "isDisabled" : false
+          },
+          {
             "name" : "Shane Bieber",
             "isDisabled" : false
           },
           {
-            "name" : "Shroud",
+            "name" : "Shiphtur",
             "isDisabled" : false
           },
           {
-            "name" : "Sjokz",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Skeppy",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Skiing",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Slimecicle",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Snowboarding",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Soccer",
+            "name" : "SicK",
             "isDisabled" : false
           },
           {
@@ -1163,15 +1127,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Soda",
-            "isDisabled" : false
-          },
-          {
             "name" : "Sodapoppin",
             "isDisabled" : false
           },
           {
-            "name" : "Soul music",
+            "name" : "Sophia Bush",
             "isDisabled" : false
           },
           {
@@ -1183,19 +1143,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Space telescopes",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Speedrunning",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Spice Girls",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Spifey",
+            "name" : "Spider-Man",
             "isDisabled" : false
           },
           {
@@ -1211,15 +1159,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Sports events",
-            "isDisabled" : false
-          },
-          {
             "name" : "Sports news",
             "isDisabled" : false
           },
           {
             "name" : "Sports themed",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Sportsnet - #ItsOn",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Stand up comedians",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Star Wars",
             "isDisabled" : false
           },
           {
@@ -1231,23 +1187,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Street Fighter",
+            "isDisabled" : false
+          },
+          {
             "name" : "Sung Kang",
             "isDisabled" : false
           },
           {
-            "name" : "Syfy",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Sykkuno",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Syndicate",
-            "isDisabled" : false
-          },
-          {
-            "name" : "T1",
+            "name" : "Superstores",
             "isDisabled" : false
           },
           {
@@ -1255,7 +1203,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "TSM FTX",
+            "name" : "Target",
             "isDisabled" : false
           },
           {
@@ -1271,19 +1219,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Team Nigma",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Team Secret",
-            "isDisabled" : false
-          },
-          {
             "name" : "Tech news",
             "isDisabled" : false
           },
           {
-            "name" : "Techno",
+            "name" : "Tech personalities",
             "isDisabled" : false
           },
           {
@@ -1291,15 +1231,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Ted Nivison",
-            "isDisabled" : false
-          },
-          {
             "name" : "Television",
             "isDisabled" : false
           },
           {
+            "name" : "TenZ",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Tennis",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Tether cryptocurrency",
+            "isDisabled" : false
+          },
+          {
             "name" : "Tfue",
+            "isDisabled" : false
+          },
+          {
+            "name" : "The American Psycho",
             "isDisabled" : false
           },
           {
@@ -1311,19 +1263,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "The International",
-            "isDisabled" : false
-          },
-          {
-            "name" : "The Jackbox Party Pack",
-            "isDisabled" : false
-          },
-          {
-            "name" : "The Met Gala",
-            "isDisabled" : false
-          },
-          {
             "name" : "The Onion",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Theater",
             "isDisabled" : false
           },
           {
@@ -1331,7 +1275,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Tom Wilson",
+            "name" : "Tim Pool",
             "isDisabled" : false
           },
           {
@@ -1344,6 +1288,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Transportation",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Trap",
             "isDisabled" : false
           },
           {
@@ -1383,23 +1331,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "UEFA Champions League Football",
+            "name" : "United States Postal Service",
             "isDisabled" : false
           },
           {
-            "name" : "UEFA Champions League Soccer",
-            "isDisabled" : false
-          },
-          {
-            "name" : "UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC",
-            "isDisabled" : false
-          },
-          {
-            "name" : "UEFA European Championship",
-            "isDisabled" : false
-          },
-          {
-            "name" : "UEFAチャンピオンズリーグ",
+            "name" : "United States of America travel",
             "isDisabled" : false
           },
           {
@@ -1407,19 +1343,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "VALORANT Champions Tour",
-            "isDisabled" : false
-          },
-          {
             "name" : "Valkyrae",
             "isDisabled" : false
           },
           {
-            "name" : "Vancouver Canucks",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Vancouver Titans",
+            "name" : "Valtteri Bottas",
             "isDisabled" : false
           },
           {
@@ -1427,7 +1355,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Vegetables",
+            "name" : "Vegetable recipes",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Venues",
             "isDisabled" : false
           },
           {
@@ -1439,7 +1371,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Vikkstar",
+            "name" : "Visual arts",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Volvo Cars",
             "isDisabled" : false
           },
           {
@@ -1455,19 +1391,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Winter sports",
-            "isDisabled" : false
-          },
-          {
-            "name" : "World news",
-            "isDisabled" : false
-          },
-          {
             "name" : "World of Warcraft",
             "isDisabled" : false
           },
           {
             "name" : "Writing",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Yamasato Ryota no Fumo Na Giron",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Yolanda Hadid",
             "isDisabled" : false
           },
           {
@@ -1479,11 +1415,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Youtooz",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Zac Efron",
+            "name" : "YouTubers",
             "isDisabled" : false
           },
           {
@@ -1503,19 +1435,31 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "dapr",
+            "name" : "dazzLe",
             "isDisabled" : false
           },
           {
-            "name" : "mousesports",
+            "name" : "dephh",
             "isDisabled" : false
           },
           {
-            "name" : "paiN Gaming",
+            "name" : "moose",
             "isDisabled" : false
           },
           {
-            "name" : "sinatraa",
+            "name" : "scarra",
+            "isDisabled" : false
+          },
+          {
+            "name" : "seang@res",
+            "isDisabled" : false
+          },
+          {
+            "name" : "steel",
+            "isDisabled" : false
+          },
+          {
+            "name" : "tarik",
             "isDisabled" : false
           },
           {
@@ -1523,15 +1467,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "xQc",
+            "name" : "yay",
             "isDisabled" : false
           },
           {
             "name" : "モータースポーツ",
-            "isDisabled" : false
-          },
-          {
-            "name" : "ヴァイオレット・エヴァーガーデン",
             "isDisabled" : false
           },
           {
@@ -1545,17 +1485,23 @@ window.YTD.personalization.part0 = [
         ],
         "partnerInterests" : [ ],
         "audienceAndAdvertisers" : {
-          "numAudiences" : "34",
+          "numAudiences" : "81",
           "advertisers" : [
             "@BMW_UK",
             "@BMoadh",
+            "@Bell",
+            "@Bell_FR",
+            "@BudweiserCanada",
             "@CallofDuty",
+            "@DEyeota",
             "@DukeEnergy",
+            "@FrontierCorp",
+            "@HyperX",
             "@Pro_influencer",
             "@T2Interactive",
             "@T2InteractiveUS",
+            "@VirginPlus",
             "@affinioaudience",
-            "@awscloud",
             "@bladeandsoul",
             "@dtto_jp",
             "@eyecity_shi",
@@ -1613,6 +1559,7 @@ window.YTD.personalization.part0 = [
             "@LINE_tsumtsum_j",
             "@LM_ARB",
             "@Lineage2_Rev",
+            "@LinkedIn",
             "@LordsMobileJP",
             "@MafiaCity_JP",
             "@MagicTiles_3",
@@ -1669,9 +1616,8 @@ window.YTD.personalization.part0 = [
             "@ff15",
             "@fgoproject",
             "@firefox",
-            "@firefox_DE",
-            "@firefox_FR",
             "@fishbrainapp",
+            "@foodpandaPH",
             "@gameloft",
             "@gameloftJapan",
             "@geresonantops",
@@ -1688,6 +1634,8 @@ window.YTD.personalization.part0 = [
             "@l2_harbalbakaa",
             "@mercari_jp",
             "@monst_mixi",
+            "@mozilla_france",
+            "@mozilla_germany",
             "@pokemori_jp",
             "@riseofkingdoms",
             "@saoif_gameinfo",
@@ -1701,6 +1649,7 @@ window.YTD.personalization.part0 = [
             "@tiktok_spain",
             "@tiktok_uk",
             "@tiktok_us",
+            "@tinderbrasil",
             "@tokopedia",
             "@warrobotsgame",
             "@76",
@@ -1724,16 +1673,19 @@ window.YTD.personalization.part0 = [
             "@AudiUK",
             "@BMW_UK",
             "@BMoadh",
+            "@BSSportsbook",
             "@BankofScotBiz",
             "@BanqueTangerine",
+            "@BarclaysCIB",
             "@BarclaysCorp",
-            "@BarclaysIB",
+            "@Bell",
+            "@Bell_FR",
             "@BlizzHeroes",
             "@BookatableSE",
             "@Bridgestone",
+            "@BudweiserCanada",
             "@BuildMyCadillac",
             "@BushmillsUSA",
-            "@BusinessInsider",
             "@CDHoweInstitute",
             "@CNN",
             "@CVSHealth",
@@ -1752,6 +1704,7 @@ window.YTD.personalization.part0 = [
             "@Crunchyroll",
             "@DB_Legends",
             "@DCUO",
+            "@DEyeota",
             "@DICKS",
             "@DairyQueen",
             "@DeerParkWtr",
@@ -1776,6 +1729,7 @@ window.YTD.personalization.part0 = [
             "@FirestoneTires",
             "@FoodNetwork",
             "@Ford",
+            "@FrontierCorp",
             "@FrontiersIn",
             "@Fujitsu_Global",
             "@GameFuel",
@@ -1784,12 +1738,15 @@ window.YTD.personalization.part0 = [
             "@GluTapSports",
             "@GreatWestToday",
             "@H1Z1",
+            "@HBO",
             "@HSBC_UK",
             "@HaagenDazs_US",
             "@Hallmark",
             "@HeinzTweets",
             "@HomeAdvisor",
             "@HomeDepot",
+            "@HomeownerSmart",
+            "@HyperX",
             "@IDGTECHtalkAU",
             "@IDGTechTalk",
             "@IFeelPretty",
@@ -1820,7 +1777,6 @@ window.YTD.personalization.part0 = [
             "@Motherland",
             "@MountainDew",
             "@Mucinex",
-            "@NAR_homeowners",
             "@NBA2K",
             "@NBATV",
             "@NBAonTNT",
@@ -1828,7 +1784,6 @@ window.YTD.personalization.part0 = [
             "@NFL",
             "@NOW",
             "@NatGeoTV",
-            "@NintendoAmerica",
             "@OldNavy",
             "@OnePlus_UK",
             "@OnePlus_USA",
@@ -1857,12 +1812,13 @@ window.YTD.personalization.part0 = [
             "@RedHatLabs",
             "@RockstarGames",
             "@Rogers",
-            "@SCENECard",
+            "@SAPANZ",
             "@SMITEGame",
             "@SOLIDWORKS",
             "@SamsungCanada",
             "@SamsungDC",
             "@SamsungMobileUS",
+            "@Scene_Plus",
             "@ScufGaming",
             "@Sephora",
             "@Shadow_France",
@@ -1874,7 +1830,7 @@ window.YTD.personalization.part0 = [
             "@Sportsnet",
             "@SpotifyDE",
             "@SpotifyJP",
-            "@SpotifyKDaebak",
+            "@SpotifyKpop",
             "@SpotifyThailand",
             "@SpotifyUK",
             "@Spotify_PH",
@@ -1903,13 +1859,16 @@ window.YTD.personalization.part0 = [
             "@VICETV",
             "@VMware",
             "@Valvoline",
+            "@VelaEdFund",
             "@Venmo",
             "@VirginAtlantic",
+            "@VirginPlus",
             "@Visa",
             "@WJHonFOX",
             "@WSPARX",
             "@WagWalking",
             "@WalkMeInc",
+            "@Walmart",
             "@WaltDisneyWorld",
             "@Warcraft",
             "@WebullGlobal",
@@ -1920,10 +1879,10 @@ window.YTD.personalization.part0 = [
             "@affinioaudience",
             "@amazon",
             "@arabic_newchic",
-            "@awscloud",
             "@baristabar",
             "@belk",
             "@bladeandsoul",
+            "@budlight",
             "@budweiserusa",
             "@carsdotcom",
             "@castle_hustle",
@@ -1942,6 +1901,7 @@ window.YTD.personalization.part0 = [
             "@flonase",
             "@formlabs",
             "@getquip",
+            "@guardian",
             "@hinge",
             "@hmusa",
             "@intel",
@@ -1965,16 +1925,16 @@ window.YTD.personalization.part0 = [
             "@redbull",
             "@redlobster",
             "@roadshow",
+            "@rockstarenergy",
             "@seekjobs",
             "@shadowofwargame",
             "@soylent",
+            "@spotifypodcasts",
             "@sucurisecurity",
-            "@suggestcom",
             "@tableau",
+            "@tmg_social",
             "@tradegovuk",
             "@trivago",
-            "@two_europe",
-            "@virginplus",
             "@vodafone_de",
             "@vote4robgill",
             "@voxsup",
@@ -1983,125 +1943,66 @@ window.YTD.personalization.part0 = [
             "@xfinitymobile",
             "@yellowtailwine",
             "@zelda_musou"
-          ]
+          ],
+          "doNotReachAdvertisers" : [ ]
         },
         "shows" : [
-          "2019 Australian Open Tennis",
-          "24 of Le Mans",
-          "24H du Mans 2017",
-          "90 Day Fiance",
           "Adventure Time",
-          "America's Next Top Model",
           "BBC Radio 1's Big Weekend",
-          "Bake Off: The Professionals",
           "Black Mirror (Netflix)",
           "Blinded By The Light (2019)",
-          "Blue Planet Live",
-          "Bohemian Rhapsody",
           "Breaking Bad",
-          "Captain Marvel",
-          "Catfish: Mentiras en la Red",
+          "Caligula -カリギュラ-",
           "Catfish: The TV Show",
-          "Designated Survivor",
+          "Don't Look Up",
           "Dragons' Den",
-          "Drake & Josh",
-          "Electric Daisy Carnival Las Vegas 2017",
-          "Eurovision 2018",
-          "Eurovision Song Contest 2017",
           "Formula One Racing",
           "Fox para todos",
-          "Friends",
-          "Futebol NFL",
           "Fórmula 1",
-          "Fútbol Americano de la NFL",
           "G7 伊勢志摩サミット",
           "Game of Thrones",
           "General Election",
+          "Good Sam",
+          "IIHF World Junior Championship 2018",
           "IMSA Weathertech Championship Race",
           "IndyCar Racing",
-          "Inside the NBA",
-          "Iron Man 2",
-          "Isn't It Romantic",
-          "Joker (2019)",
-          "Killing Eve",
           "La reine des neiges",
-          "Live From the Red Carpet",
-          "Live: BNP Paribas Open Tennis",
-          "Live: FIA World Rally Championship",
           "Live: Formula 1 Motor Racing",
           "Live: NBA Basketball",
           "Love Island",
           "MLB Baseball",
-          "Max & Ruby",
-          "Milan Fashion Week: Men's Winter 2017",
-          "Mousquetaires",
-          "My 600-Lb. Life",
-          "My 600-Lb. Life: Supersized",
           "MythBusters",
           "NBA Basketball",
-          "NFL Football",
-          "National Pi Day 2017",
-          "Oscars Best Actor: Data",
           "Overwatch",
           "Parental Control",
-          "Pointless",
-          "Queer Eye (Netflix)",
-          "Red Dead Redemption",
           "RuPaul's Drag Race",
-          "Salamander",
           "SpongeBob SquarePants",
-          "Steven Universe",
-          "Storage Wars",
-          "Supernatural",
           "Teen Mom 3",
-          "Tennis",
           "Terminator: Dark Fate",
-          "The 76th Annual Golden Globe Awards",
+          "The American Psycho",
           "The Avengers: Endgame",
-          "The Classic Car Show",
-          "The Ellen DeGeneres Show",
-          "The Grand Tour",
-          "The Great British Bake Off",
-          "The Legend of Korra",
-          "The Lego Movie 2: The Second Part",
+          "The Good Doctor",
           "The Little Mermaid",
-          "The Musketeers",
-          "The Oscars",
-          "The Repair Shop",
           "The Sun Is Also a Star",
-          "The Voice",
-          "Top Gear",
-          "Top Gear : les courses les plus folles",
           "Turbo",
           "Twin Peaks",
           "Twin Peaks: The Return",
-          "UEFA Champions League Football",
-          "UEFA Champions League Soccer",
-          "UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC",
-          "UEFAチャンピオンズリーグ",
-          "Who Wants to Be a Millionaire",
-          "Who Wants to Be a Millionaire?",
-          "クローズアップ現代",
-          "スッキリ!!",
-          "タモリ倶楽部",
+          "Yellowjackets",
           "デート・ア・ライブIII",
-          "モブサイコ100（アニメ）",
+          "ブラッククローバー",
           "ヴァイオレット・エヴァーガーデン",
           "七夕 (Tanabata Holiday) 2017",
           "影踏み",
           "日本プロ野球",
-          "日本選手権水泳競技大会",
-          "特捜9",
           "花火大会 2017 (Fireworks Festivals)"
         ]
       },
       "locationHistory" : [
-        "Kelowna, Canada",
         "Kelowna, British Columbia, Canada"
       ],
       "inferredAgeInfo" : {
         "age" : [
-          "13-64"
+          "13-54"
         ],
         "birthDate" : ""
       }

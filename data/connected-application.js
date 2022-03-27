@@ -2,35 +2,6 @@ window.YTD.connected_application.part0 = [
   {
     "connectedApplication" : {
       "organization" : {
-        "name" : "",
-        "url" : ""
-      },
-      "name" : "All My Tweets",
-      "description" : "View all your tweets on one page.",
-      "permissions" : [
-        "read"
-      ],
-      "approvedAt" : "2018-02-12T07:33:18.000Z",
-      "id" : "4148345"
-    }
-  },
-  {
-    "connectedApplication" : {
-      "organization" : {
-        "name" : ""
-      },
-      "name" : "Github Pages Archiver",
-      "description" : "Enables backup of Twitter Archives to Github Pages",
-      "permissions" : [
-        "read"
-      ],
-      "approvedAt" : "2019-02-08T11:49:30.000Z",
-      "id" : "12746439"
-    }
-  },
-  {
-    "connectedApplication" : {
-      "organization" : {
         "name" : "Twitter, Inc.",
         "url" : ""
       },
@@ -40,7 +11,7 @@ window.YTD.connected_application.part0 = [
         "read",
         "write"
       ],
-      "approvedAt" : "2021-06-16T08:05:36.000Z",
+      "approvedAt" : "2022-03-27T05:29:47.000Z",
       "id" : "258901"
     }
   },
@@ -108,22 +79,6 @@ window.YTD.connected_application.part0 = [
       ],
       "approvedAt" : "2017-08-02T23:09:21.000Z",
       "id" : "169"
-    }
-  },
-  {
-    "connectedApplication" : {
-      "organization" : {
-        "name" : "Twitter, Inc.",
-        "url" : ""
-      },
-      "name" : "Twitter for Android",
-      "description" : "Twitter for Android",
-      "permissions" : [
-        "read",
-        "write"
-      ],
-      "approvedAt" : "2019-02-08T11:24:39.000Z",
-      "id" : "258901"
     }
   }
 ]
